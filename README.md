@@ -1,2 +1,5 @@
 # ardupilot-sitl
 Install ardupilot-sitl
+[Installing ardupilot](https://github.com/palacita135/ardupilot-sitl/blob/main/Installing%20ardupilot)
+
+Add location text
